@@ -1,5 +1,7 @@
 # To do app - backend created by Rasmus
 
+This project was designed using Domain-Driven Design principles
+
 This is the backend for a group todo application
 
 ## Archtecture
@@ -16,3 +18,8 @@ This is the backend for a group todo application
 ```bash
 npm install
 
+```
+2. Run test
+```bash
+npm run test
+```
