@@ -23,3 +23,9 @@ npm install
 ```bash
 npm run test
 ```
+
+3. Archtectures
+![System Archtecture](./images/system_archtecture_diagram.png)
+![DB Archtecture](./images/db_diragram.png)
+![RESTFul Archtecture](./images/restful_api.png)
+
